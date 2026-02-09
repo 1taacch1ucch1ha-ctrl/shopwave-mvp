@@ -40,5 +40,12 @@
     "price": 39.99,
     "image": "https://images.unsplash.com/photo-1586816879360-004f5b0c51e5?w=400",
     "description": "Fast wireless charging for all devices"
+  },
+  {
+    "id": 7,
+    "name": "Premium Water Bottle",
+    "price": 30,
+    "image": "images/water-bottle.jpg",
+    "description": "Stay hydrated in style with our premium water bottle. Crafted from durable, eco-friendly materials, it features a leak-proof design and keeps beverages cold for up to 24 hours. Perfect for workouts, office, or outdoor adventures."
   }
 ]
