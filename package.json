@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "netlify-cli": "^23.15.1",
+    "surge": "^0.24.6"
+  }
+}
